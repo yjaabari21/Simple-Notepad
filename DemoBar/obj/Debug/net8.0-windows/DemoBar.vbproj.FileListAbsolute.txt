@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\DemoBar\DemoBar\bin\Debug\net8.0-windows\DemoBar.exe
+C:\Users\DELL\source\repos\DemoBar\DemoBar\bin\Debug\net8.0-windows\DemoBar.deps.json
+C:\Users\DELL\source\repos\DemoBar\DemoBar\bin\Debug\net8.0-windows\DemoBar.runtimeconfig.json
+C:\Users\DELL\source\repos\DemoBar\DemoBar\bin\Debug\net8.0-windows\DemoBar.dll
+C:\Users\DELL\source\repos\DemoBar\DemoBar\bin\Debug\net8.0-windows\DemoBar.pdb
+C:\Users\DELL\source\repos\DemoBar\DemoBar\obj\Debug\net8.0-windows\DemoBar.Form1.resources
+C:\Users\DELL\source\repos\DemoBar\DemoBar\obj\Debug\net8.0-windows\DemoBar.vbproj.GenerateResource.cache
+C:\Users\DELL\source\repos\DemoBar\DemoBar\obj\Debug\net8.0-windows\DemoBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\DemoBar\DemoBar\obj\Debug\net8.0-windows\DemoBar.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\DemoBar\DemoBar\obj\Debug\net8.0-windows\DemoBar.AssemblyInfo.vb
+C:\Users\DELL\source\repos\DemoBar\DemoBar\obj\Debug\net8.0-windows\DemoBar.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DemoBar\DemoBar\obj\Debug\net8.0-windows\DemoBar.dll
+C:\Users\DELL\source\repos\DemoBar\DemoBar\obj\Debug\net8.0-windows\refint\DemoBar.dll
+C:\Users\DELL\source\repos\DemoBar\DemoBar\obj\Debug\net8.0-windows\DemoBar.pdb
+C:\Users\DELL\source\repos\DemoBar\DemoBar\obj\Debug\net8.0-windows\DemoBar.genruntimeconfig.cache
+C:\Users\DELL\source\repos\DemoBar\DemoBar\obj\Debug\net8.0-windows\ref\DemoBar.dll
